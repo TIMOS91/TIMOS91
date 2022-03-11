@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TIMOS91
-- 👀 I’m interested in  να φτιαξω εναν κωδικα αποθηκευσης
+- 👋 Hi, 
+- 👀 I’m interested i
 - 🌱 I’m currently learning  το github
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  timos1234@hotmail.com
+- 📫 How to reach me  
 
 <!---
 TIMOS91/TIMOS91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
